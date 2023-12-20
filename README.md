@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Iñaki 
 
+<img src="https://raw.githubusercontent.com/iinaki/iinaki/main/github-header-image (6).png" alt="banner that says Iñaki Llorens - software developer">
 <!--
 **iinaki/iinaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
